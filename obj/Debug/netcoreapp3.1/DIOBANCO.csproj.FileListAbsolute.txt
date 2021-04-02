@@ -1,0 +1,13 @@
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.exe
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.deps.json
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.runtimeconfig.json
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.runtimeconfig.dev.json
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.dll
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\bin\Debug\netcoreapp3.1\DIOBANCO.pdb
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.csprojAssemblyReference.cache
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.AssemblyInfoInputs.cache
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.AssemblyInfo.cs
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.dll
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.pdb
+C:\Users\eduardo.correa\Documents\DIO\banco\DIOBanco\DIOBANCO\obj\Debug\netcoreapp3.1\DIOBANCO.genruntimeconfig.cache
